@@ -28,7 +28,7 @@ export const questions = [
     answers: [
       {
         text: "Розгін до сотні",
-        traits: { speed: 3, cheap: 4 }
+        traits: { speed: 3 }
       },
       {
         text: "Торпеда львівського",
@@ -146,11 +146,11 @@ export const questions = [
       },
       {
         text: "69",
-        traits: { speed: 2 }
+        traits: { speed: 1 }
       },
       {
         text: "На зелений",
-        traits: { speed: 3 }
+        traits: { speed: 2 }
       } 
     ]
   },
@@ -181,7 +181,7 @@ export const questions = [
     answers: [
       {
         text: "Синій гольф універсал((",
-        traits: { wagon: 4, cheap: 1 }
+        traits: { wagon: 3, cheap: 1 }
       },
       {
         text: "Пососат",
@@ -219,7 +219,7 @@ export const questions = [
     answers: [
       {
         text: "Закидую шнюс",
-        traits: { luxury: 3 }
+        traits: { luxury: 2 }
       },
       {
         text: "Викикую шнюс",
@@ -242,11 +242,11 @@ export const questions = [
       },
       {
         text: "Динарій",
-        traits: { exotic: 2, luxury:2 }
+        traits: { exotic: 2, luxury: 2 }
       },
       {
         text: "Флорин",
-        traits: { suv: 4, wagon: 3 }
+        traits: { suv: 4, wagon: 2 }
       },
     ]
   },
@@ -257,7 +257,7 @@ export const questions = [
     answers: [
       {
         text: "Нічим",
-        traits: { wagon: 2, speed: 2, luxury: 2 }
+        traits: { wagon: 1, speed: 2, luxury: 2 }
       },
       {
         text: "Ціною",
