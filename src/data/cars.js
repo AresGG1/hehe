@@ -6,7 +6,7 @@ export const cars = [
     name: "Daewoo Lanos",
     description: "Для норміків",
     traits: { cheap: 10, wagon: 5 },
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Daewoo_Lanos_front_20071012.jpg/1200px-Daewoo_Lanos_front_20071012.jpg",
+    image: "https://vbavto.ua/files_media/uploads/2023/09/26/dviguni-na-deu-lanos-iakii-krashche-ta-deshevshe-v-ekspluatatsiyi_2.jpg",
   },
   {
     id: 3,
